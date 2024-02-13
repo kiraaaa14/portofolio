@@ -1,0 +1,33 @@
+body{
+    background:#0c0d2e;
+}
+.navbar{
+background-color: hsl(0, 0%, 0%);
+background-attachment: fixed; ;
+}
+.jumbotron{
+    padding-top:2rem;
+    background-color: #3d3452;
+}
+#Hobby{
+    padding-top:10rem;
+    color: aqua;
+}
+
+footer { 
+    width: 100%;
+    padding: 3px;
+    background-color: #888;
+    margin-top: 1rem    ;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer div { 
+    display: flex;
+    gap: 1rem;
+}
