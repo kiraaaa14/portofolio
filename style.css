@@ -17,7 +17,7 @@ background-attachment: fixed; ;
 footer { 
     width: 100%;
     padding: 3px;
-    background-color: #888;
+    background-color: #320808;
     margin-top: 1rem    ;
     color: white;
     text-align: center;
@@ -30,4 +30,7 @@ footer {
 footer div { 
     display: flex;
     gap: 1rem;
+}
+#about{
+    padding-top:10rem;
 }
